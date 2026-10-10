@@ -6,3 +6,6 @@ def add(x,y):
 
 def subtract(x,y):
     return y-x
+
+def concatenate(a,b):
+    return a+b
